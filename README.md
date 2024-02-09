@@ -2,7 +2,7 @@
 - 👀 I’m interested in using data to help provide solutions to complex issues
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on improving the healthcare system using data
-- 📫 How to reach me : linkedin.com/in/luzpineda
+- 📫 How to reach me : linkedin.com/in/AdrianaP
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love spending time out in nature
 
