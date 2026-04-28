@@ -3,8 +3,7 @@
 
 I'm a data analyst focused on turning messy datasets into clear, 
 stakeholder-ready insights. I enjoy the full process — from profiling 
-raw data and engineering features, to building dashboards that help 
-finance and operations teams make better decisions.
+raw data and improving quality features, to storytelling throgh building dashboards and reports that help teams make better decisions.
 
 ---
 
