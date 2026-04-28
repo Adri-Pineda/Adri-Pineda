@@ -1,9 +1,7 @@
 # Hi, I'm Adriana 👋
 ### Data Analyst | Excel · SQL · Power BI · Tableau · R
 
-I'm a data analyst focused on turning messy datasets into clear, 
-stakeholder-ready insights. I enjoy the full process — from profiling 
-raw data and improving quality features, to storytelling throgh building dashboards and reports that help teams make better decisions.
+I'm a data analyst focused on transforming messy datasets into clear, stakeholder-ready insights. I enjoy the full process — from profiling raw data and improving data quality, to building dashboards and reports that inform teams and drive better business decisions.
 
 ---
 
